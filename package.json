@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "vitepress": "^1.4.3"
+  },
+  "type": "module",
+  "version": "1.0.0",
+  "description": "The documentation of e",
+  "scripts": {
+    "docs:dev": "vitepress dev src",
+    "docs:build": "vitepress build src",
+    "docs:preview": "vitepress preview src"
+  }
+}
